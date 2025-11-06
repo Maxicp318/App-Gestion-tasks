@@ -7,5 +7,5 @@ Este repositorio contiene el código del frontend y backend.
 - `/backend` → Proyecto Spring Boot (Render)
 
 ## Deploys
-- Frontend: https://miapp.netlify.app
-- Backend: https://miapi.onrender.com
+- Frontend: https://gestion-tareas-frontend.netlify.app/
+- Backend: https://app-tasks-api.onrender.com
